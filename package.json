@@ -1,0 +1,17 @@
+{
+  "name": "inputarea",
+  "description": "Cross between a textarea and text input",
+  "version": "0.2.1",
+  "keywords": [
+    "input",
+    "textarea"
+  ],
+  "dependencies": {
+    "emitter": "npmcomponent/component-emitter",
+    "events": "npmcomponent/component-events",
+    "classes": "npmcomponent/component-classes"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "index.js"
+}
